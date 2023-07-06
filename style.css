@@ -238,11 +238,11 @@ li a:hover{
 .item-list{
     width: 82%;
     background-color: rgb(235, 234, 233);
-    gap: 20px;
+    gap: 10px;
     padding: 10px;
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap-reverse;
+    flex-wrap: wrap;
     justify-content: center;
 }
 
